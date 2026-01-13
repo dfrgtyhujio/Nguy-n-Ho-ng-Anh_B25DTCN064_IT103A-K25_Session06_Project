@@ -1,0 +1,45 @@
+body {
+    font-family: cursive;
+    background-color: #fff7ed;
+}
+
+header {
+    text-align: center;
+    color: #92400e;
+}
+
+h1 {
+    background-color: #fde68a;
+}
+
+header p {
+    font-weight:bold;
+    font-size: 18px;
+    background-color: #fed7aa;
+}
+
+span:hover{
+    color: white;
+    background-color:#78350f;
+}
+
+
+section {
+    background-color: white;
+}
+
+h2 {
+    color: #92400e;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color:#78350f;
+}
+
+
+ol li:hover {
+    color: yellow;
+    background-color:#78350f;
+}
